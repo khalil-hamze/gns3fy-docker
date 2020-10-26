@@ -1,0 +1,4 @@
+gns3fy
+tabulate
+python-dotenv
+pathlib
